@@ -96,7 +96,7 @@ export default function App() {
             </div>
             <div>
               <span className="text-[10px] font-bold text-brand-clay uppercase tracking-wider block font-mono">Sourcing Authority</span>
-              <span className="text-lg font-black text-brand-primary tracking-tight font-mono">Gov of India LIC</span>
+              <span className="text-lg font-black text-brand-primary tracking-tight font-mono">Recorded Source</span>
             </div>
           </div>
         </div>
